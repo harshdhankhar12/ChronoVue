@@ -188,7 +188,7 @@ Think of ChronoVue as **Google Maps for your career** — showing your current s
 ## **Installation**
 
 ```bash
-git clone https://github.com/harshdhankhar10/chronovue.git
+git clone https://github.com/harshdhankhar12/ChronoVue.git
 cd chronovue
 npm install
 
